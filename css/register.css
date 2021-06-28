@@ -1,0 +1,31 @@
+body{
+	margin: 0 auto;
+	text-align: center;
+	background-color: rgba(120,220,255,1.00);
+}
+img{
+	float:left;
+}
+#one{
+	margin: 0 auto;
+	margin-top: 80px;
+	width:500px;
+	height:300px;
+	border:rgba(87,193,245,1.00) dotted 1px;
+	background-color:rgba(87,193,245,1.00);
+}
+h3{
+	margin-top: 50px;
+}
+#head{
+	background-color:#BBE0F0;
+	width:100%;
+	height:100px;
+		position:relative;
+}
+#head img{
+	margin:0 0px 0 20px;
+}
+h4{
+	margin-top: 50px;
+}
