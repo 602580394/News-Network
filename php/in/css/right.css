@@ -1,0 +1,45 @@
+.h{
+	float:right;
+	margin-right:10px;
+	position:relative;
+	}
+.h_a{
+	background-color:#CCC;
+	width:290px;
+	height:50px;
+	}
+.h_a h3{
+	line-height:50px;
+	padding-left:20px;
+	border-left:#06F solid 6px;
+	}
+.h_a img{
+    position:absolute;
+	top:20px;
+	left:215px;
+	}
+.h_b{
+	border-bottom:#CCC solid 1px;
+	border-left:#CCC solid 1px;
+	border-right:#CCC solid 1px;
+	width:288px;
+	height:210px;
+	}
+#img_a{
+	float:right;
+	margin-right:10px;
+	padding:15px 0px 0px 0px;
+	}
+.h_b #ri{
+	margin: 0;
+	padding: 0;
+	float:right;
+	width:90px;
+	
+}
+.h_b #ming{
+	margin: 0;
+	padding: 0;
+	float:left;
+	width:190px;
+}

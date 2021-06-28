@@ -1,0 +1,30 @@
+#y{
+	float:right;
+	width:1200px;
+	background-color:#CCC;
+	height:50px;
+	margin-top:15px;
+	position:relative;
+	}
+#y h3{
+	padding-left:30px;
+	padding-bottom:13px;
+	width:90px;
+	border-bottom:#06F solid 6px;
+	line-height:15px;
+	}
+#y img{
+    position:absolute;
+	top:0px;
+	left:1100px;
+	}
+#j{
+	float:left;
+	margin-bottom:30px;
+}
+
+
+
+#z{
+	clear:both;
+	}

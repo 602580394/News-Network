@@ -1,0 +1,44 @@
+#liu{
+	margin:0px auto;
+	padding:0px;
+	text-align: center;
+	position: relative;
+}
+#liu form{
+	margin:0px auto;
+	padding:0px;
+	width:550px;
+}
+.wenben{
+	float:right;
+	width:400px;
+	margin-bottom: 0px;
+}
+i{
+	color:#EC0609;
+	margin:10px;
+	font-size:1.5em;
+}
+#liu h2{
+	padding:5px 0px 20px 0px;
+	border-bottom: rgba(119,119,119,1.00) 2px dashed; 
+}
+.sub{
+	
+	width:60px;
+	height:30px;
+	margin-bottom:20px;
+}
+.sub:hover{
+	background:rgba(6,118,213,1.00);
+}
+#ly{
+	width:150px;
+	padding-bottom: 30px;
+}
+.liuy{
+	
+  position: absolute;
+	top:250px;
+	right: 125px;
+}

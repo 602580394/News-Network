@@ -1,0 +1,12 @@
+<div id="centre">
+<div id="one">
+        <h2>用户登录</h2>
+        <form action="login.php" method="post">
+            <p><span>账号：</span><input type="text" name="user" required="" /></p>
+            <p><span>密码：</span><input type="password" name="pass"/ required=""></p>
+            <p><input type="reset" name=""/> <input type="submit" name="" value="登录"/></p>
+        </form>
+        <a href="register.php">新用户注册</a>
+    </div>
+	
+</div>
